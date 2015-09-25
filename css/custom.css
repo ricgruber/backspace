@@ -1,0 +1,24 @@
+#subscribe-full {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#Brandless{
+​
+	width: 93px;
+	margin-bottom: 5px;
+	margin-left: 3px;
+}
+​
+@media (max-width: 775px) {
+​
+	#Brandless{
+	
+		width: 93px;
+		margin-bottom: 5px;
+		margin-left: 3px;
+​
+	}
+}
+
+
